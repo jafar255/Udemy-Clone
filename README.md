@@ -18,6 +18,6 @@ This is a simple **Udemy homepage clone** created using **HTML5 and CSS3**. It i
 - Font Awesome (for icons, if used)
 
 ## check out
-(link here :  )
+(link here : https://jafar255.github.io/Udemy-Clone/  )
 
 
